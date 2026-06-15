@@ -23,3 +23,18 @@ included inside the app.
 
 A new **DEX** installer is on the way and will be published here in its own section under `vX.Y.Z`
 tags. Magnify releases stay namespaced under the `magnify-` prefix, so the two apps never overlap.
+
+## AURUM — mastering suite
+
+**AURUM** is a local-first desktop mastering suite. Load a track, shape it with layered analog drive
+(tape / tube / transformer), 4-band saturation, character compression and stereo control, split it
+into stems (kick / drums / bass / melody), and export a finished master — all **offline, nothing
+leaves your machine**.
+
+Get the installer from the **[Releases](../../releases)** page.
+
+- Latest: `aurum-v1.4.0`
+- Installer: `AURUM-Setup-1.4.0-x64.exe` — Windows x64, ~74 MB. Unsigned: if SmartScreen warns,
+  choose *More info → Run anyway*.
+
+AURUM releases are namespaced under the `aurum-` prefix, separate from `magnify-`.
