@@ -38,3 +38,23 @@ Get the installer from the **[Releases](../../releases)** page.
   choose *More info → Run anyway*.
 
 AURUM releases are namespaced under the `aurum-` prefix, separate from `magnify-`.
+
+## SABLE — analog synthesizer
+
+**SABLE** is a powerful analog-style synthesizer — two main oscillators plus a sub, three filter
+characters, four envelopes, three LFOs, a 32-slot modulation matrix, arpeggiator, step sequencer and
+a full master effects rack — wrapped in a clean monochrome interface. It runs as a standalone app and
+as a **VST3 plugin** in your DAW (FL Studio, Ableton, Reaper, Cubase, Studio One…).
+
+Get the installer + plugin from the **[Releases](../../releases)** page.
+
+- Latest: `sable-v1.0.2`
+- App installer: `SABLE_1.0.2_x64-setup.exe` — Windows x64, ~1.6 MB. One-click install; associates
+  `.sable` preset files. Unsigned: if SmartScreen warns, choose *More info → Run anyway*.
+- VST3 plugin: `SABLE-1.0.2-VST3-win64.zip` — unzip `SABLE.vst3` into
+  `C:\Program Files\Common Files\VST3`, then rescan plugins in your DAW and load **SABLE** as an
+  instrument.
+
+SABLE releases are namespaced under the `sable-` prefix, separate from the others.
+
+(c) 2026 Onazi Treasure OJ — All rights reserved.
