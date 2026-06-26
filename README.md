@@ -46,14 +46,15 @@ characters, four envelopes, three LFOs, a 32-slot modulation matrix, arpeggiator
 a full master effects rack — wrapped in a clean monochrome interface. It runs as a standalone app and
 as a **VST3 plugin** in your DAW (FL Studio, Ableton, Reaper, Cubase, Studio One…).
 
-Get the installer + plugin from the **[Releases](../../releases)** page.
+Get it from the **[Releases](../../releases)** page.
 
-- Latest: `sable-v1.0.2`
-- App installer: `SABLE_1.0.2_x64-setup.exe` — Windows x64, ~1.6 MB. One-click install; associates
-  `.sable` preset files. Unsigned: if SmartScreen warns, choose *More info → Run anyway*.
-- VST3 plugin: `SABLE-1.0.2-VST3-win64.zip` — unzip `SABLE.vst3` into
-  `C:\Program Files\Common Files\VST3`, then rescan plugins in your DAW and load **SABLE** as an
-  instrument.
+- Latest: `sable-v1.0.3`
+- **One installer — app + plugin:** `SABLE_1.0.3_x64-setup.exe` (Windows x64, ~2.8 MB). Run it and
+  click *Yes* on the admin prompt; it installs the SABLE app **and** drops the `SABLE.vst3` plugin
+  into your system VST3 folder automatically. Then in your DAW (FL Studio, Ableton, Reaper, Cubase,
+  Studio One…) rescan plugins and load **SABLE** from *Generators / Instruments*. No manual copying.
+- For manual/advanced installs the standalone `SABLE-1.0.3-VST3-win64.zip` is also attached.
+- Unsigned: if SmartScreen warns, choose *More info → Run anyway*.
 
 SABLE releases are namespaced under the `sable-` prefix, separate from the others.
 
