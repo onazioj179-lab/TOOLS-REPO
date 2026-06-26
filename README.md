@@ -53,7 +53,7 @@ Get it from the **[Releases](../../releases)** page.
   click *Yes* on the admin prompt; it installs the SABLE app **and** drops the `SABLE.vst3` plugin
   into your system VST3 folder automatically. Then in your DAW (FL Studio, Ableton, Reaper, Cubase,
   Studio One…) rescan plugins and load **SABLE** from *Generators / Instruments*. No manual copying.
-- For manual/advanced installs the standalone `SABLE-1.0.3-VST3-win64.zip` is also attached.
+- Uninstalling SABLE from Windows also removes the plugin (clean in and out); your saved presets are kept.
 - Unsigned: if SmartScreen warns, choose *More info → Run anyway*.
 
 SABLE releases are namespaced under the `sable-` prefix, separate from the others.
