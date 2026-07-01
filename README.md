@@ -43,13 +43,13 @@ AURUM releases are namespaced under the `aurum-` prefix, separate from `magnify-
 
 **SABLE** is a powerful analog-style synthesizer — two main oscillators plus a sub, three filter
 characters, four envelopes, three LFOs, a 32-slot modulation matrix, arpeggiator, step sequencer and
-a full master effects rack — wrapped in a clean monochrome interface. It runs as a standalone app and
-as a **VST3 plugin** in your DAW (FL Studio, Ableton, Reaper, Cubase, Studio One…).
+a full master effects rack — wrapped in a **black-machine** interface with per-section colour. It runs
+as a standalone app and as a **VST3 plugin** in your DAW (FL Studio, Ableton, Reaper, Cubase, Studio One…).
 
 Get it from the **[Releases](../../releases)** page.
 
-- Latest: `sable-v1.0.3`
-- **One installer — app + plugin:** `SABLE_1.0.3_x64-setup.exe` (Windows x64, ~2.8 MB). Run it and
+- Latest: `sable-v1.0.4`
+- **One installer — app + plugin:** `SABLE_1.0.4_x64-setup.exe` (Windows x64, ~3.8 MB). Run it and
   click *Yes* on the admin prompt; it installs the SABLE app **and** drops the `SABLE.vst3` plugin
   into your system VST3 folder automatically. Then in your DAW (FL Studio, Ableton, Reaper, Cubase,
   Studio One…) rescan plugins and load **SABLE** from *Generators / Instruments*. No manual copying.
