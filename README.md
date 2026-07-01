@@ -48,8 +48,8 @@ as a standalone app and as a **VST3 plugin** in your DAW (FL Studio, Ableton, Re
 
 Get it from the **[Releases](../../releases)** page.
 
-- Latest: `sable-v1.0.4`
-- **One installer — app + plugin:** `SABLE_1.0.4_x64-setup.exe` (Windows x64, ~3.8 MB). Run it and
+- Latest: `sable-v1.0.5`
+- **One installer — app + plugin:** `SABLE_1.0.5_x64-setup.exe` (Windows x64, ~3.8 MB). Run it and
   click *Yes* on the admin prompt; it installs the SABLE app **and** drops the `SABLE.vst3` plugin
   into your system VST3 folder automatically. Then in your DAW (FL Studio, Ableton, Reaper, Cubase,
   Studio One…) rescan plugins and load **SABLE** from *Generators / Instruments*. No manual copying.
