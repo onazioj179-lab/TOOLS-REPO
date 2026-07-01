@@ -33,8 +33,8 @@ leaves your machine**.
 
 Get the installer from the **[Releases](../../releases)** page.
 
-- Latest: `aurum-v1.4.0`
-- Installer: `AURUM-Setup-1.4.0-x64.exe` — Windows x64, ~74 MB. Unsigned: if SmartScreen warns,
+- Latest: `aurum-v1.5.1`
+- Installer: `AURUM_1.5.1_x64-setup.exe` — Windows x64, WebView2-based, ~1.3 MB. Unsigned: if SmartScreen warns,
   choose *More info → Run anyway*.
 
 AURUM releases are namespaced under the `aurum-` prefix, separate from `magnify-`.
